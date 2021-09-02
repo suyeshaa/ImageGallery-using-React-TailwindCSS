@@ -1,0 +1,12 @@
+img {
+  width: 100%;
+}
+.card {
+  width: 20%;
+  padding: 20px;
+  border: 1px solid red;
+}
+
+.gr {
+  display: grid;
+}
